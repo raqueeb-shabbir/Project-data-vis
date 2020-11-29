@@ -1,33 +1,33 @@
-Month,Borough,AvgPrice
-Aug-19,Barking & Dagenham,"299,421"
-Aug-19,Barnet,"528,577"
-Aug-19,Bexley,"337,523"
-Aug-19,Brent,"488,784"
-Aug-19,Bromley,"442,189"
-Aug-19,Camden,"863,171"
-Aug-19,Croydon,"364,540"
-Aug-19,Ealing,"474,627"
-Aug-19,Enfield,"393,033"
-Aug-19,Greenwich,"396,858"
-Aug-19,Hackney,"567,269"
-Aug-19,Hammersmith & Fulham,"729,659"
-Aug-19,Haringey,"544,194"
-Aug-19,Harrow,"450,373"
-Aug-19,Havering,"367,502"
-Aug-19,Hillingdon,"397,385"
-Aug-19,Hounslow,"401,911"
-Aug-19,Islington,"643,335"
-Aug-19,Kensington & Chelsea,"1,248,525"
-Aug-19,Kingston upon Thames,"508,405"
-Aug-19,Lambeth,"519,956"
-Aug-19,Lewisham,"416,885"
-Aug-19,Merton,"517,489"
-Aug-19,Newham,"361,920"
-Aug-19,Redbridge,"421,319"
-Aug-19,Richmond upon Thames,"657,974"
-Aug-19,Southwark,"496,718"
-Aug-19,Sutton,"368,908"
-Aug-19,Tower Hamlets,"441,364"
-Aug-19,Waltham Forest,"427,416"
-Aug-19,Wandsworth,"592,251"
-Aug-19,Westminster,"905,951"
+Month,Borough,Average Price
+2019-08,Barking & Dagenham,299421
+2019-08,Barnet,528577
+2019-08,Bexley,337523
+2019-08,Brent,488784
+2019-08,Bromley,442189
+2019-08,Camden,863171
+2019-08,Croydon,364540
+2019-08,Ealing,474627
+2019-08,Enfield,393033
+2019-08,Greenwich,396858
+2019-08,Hackney,567269
+2019-08,Hammersmith & Fulham,729659
+2019-08,Haringey,544194
+2019-08,Harrow,450373
+2019-08,Havering,367502
+2019-08,Hillingdon,397385
+2019-08,Hounslow,401911
+2019-08,Islington,643335
+2019-08,Kensington & Chelsea,1248525
+2019-08,Kingston upon Thames,508405
+2019-08,Lambeth,519956
+2019-08,Lewisham,416885
+2019-08,Merton,517489
+2019-08,Newham,361920
+2019-08,Redbridge,421319
+2019-08,Richmond upon Thames,657974
+2019-08,Southwark,496718
+2019-08,Sutton,368908
+2019-08,Tower Hamlets,441364
+2019-08,Waltham Forest,427416
+2019-08,Wandsworth,592251
+2019-08,Westminster,905951
